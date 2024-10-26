@@ -1,0 +1,19 @@
+.content {
+    background-image: url(https://imgs.search.brave.com/J0jyVafY_fGtnodpmfhS_r8pnXneqD_MuQ9uwWjsgwk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/LnVuc3BsYXNoLmNv/bS9wcmVtaXVtX3Bo/b3RvLTE2ODMxMzM1/MzE2MTMtNmE3ZGI4/ODQ3YzcyP2ZtPWpw/ZyZxPTYwJnc9MzAw/MCZpeGxpYj1yYi00/LjAuMyZpeGlkPU0z/d3hNakEzZkRCOE1I/eHpaV0Z5WTJoOE1Y/eDhjR3hoYzNScFl5/VXlNR0p2ZEhSc1pY/eGxibnd3Zkh3d2ZI/eDhNQT09);
+    width: 4000px;
+    height: 400px;
+}
+.container {
+    background: linear-gradient(135deg, #e60b0b, #f3df29);
+    width: 873px;
+    height: 400px;
+    font-size: 90px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+}
+.petlink:hover{
+    /* styles to apply when hovering */
+    color: #00FF00; /* green */
+    background-color: #C6E2B5; /* light green */
+    text-decoration: none; /* remove underline */
+  }
